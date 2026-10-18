@@ -15,7 +15,27 @@ Counts: Online (AEA article page): 2; Online (OUP article page): no DOI: 1; Onli
 
 **Journal**: where the study was published. AEA journals (68 studies): AER, AER P&P (2015 May issue), AEA P&P, AEJ:Applied, AEJ:Policy, AEJ:Macro, AER:Insights, JEP. Non-AEA (25 studies): JEEA, JPE, REStat, JEH, EI (Economic Inquiry), COEP (Contemporary Economic Policy), AERA Open, JUE, JHR, EER, EEH (Explorations in Economic History), JAMA Netw Open. Journals for studies with no article DOI in the table were found by Crossref title/author search.
 
-Studies per journal: AEJ:Applied: 18; AEJ:Policy: 17; AER: 17; AERA Open: 8; AEA P&P: 7; AER P&P: 5; REStat: 3; AER:Insights: 2; EI: 2; JEEA: 2; JEH: 2; JUE: 2; AEJ:Macro: 1; COEP: 1; EEH: 1; EER: 1; JAMA Netw Open: 1; JEP: 1; JHR: 1; JPE: 1
+**Studies per journal**
+
+| Journal | Studies |
+|---|---:|
+| AEJ:Applied | 18 |
+| AEJ:Policy | 17 |
+| AER | 17 |
+| AEA P&P | 7 |
+| AER P&P | 5 |
+| AER:Insights | 2 |
+| **AEA journals**<sup>a</sup> | **68** |
+| AERA Open | 8 |
+| REStat | 3 |
+| EI | 2 |
+| JEEA | 2 |
+| JEH | 2 |
+| JUE | 2 |
+| **All journals**<sup>b</sup> | **93** |
+
+<sup>a</sup> Includes AEJ:Macro and JEP, with 1 study each.  
+<sup>b</sup> Journals with only 1 study are not listed separately: AEJ:Macro, COEP, EEH, EER, JAMA Netw Open, JEP, JHR, JPE (8 studies in all).
 
 | Study ID | Package DOI | Source | Package title (DataCite) | Creators | Journal | Article DOI | Note |
 |---|---|---|---|---|---|---|---|
